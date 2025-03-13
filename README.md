@@ -9,6 +9,7 @@ Currently, I'm actively building real-world projects and improving my skills usi
 - **ASP.NET Core MVC**
 - **Entity Framework Core**
 - **Dapper**
+- **SignalR**
 - **MS SQL Server**
 - **RESTful APIs**
 - And following up with modern .NET technologies.
@@ -37,6 +38,7 @@ I enjoy clean architecture, scalable backend solutions, and always learning some
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/dotnet/dotnet.png" width="30" height="30" alt="ASP.NET Core"/>
   <img src="https://cdn-icons-png.flaticon.com/512/3314/3314937.png" width="30" height="30" alt="Entity Framework Core"/>
   <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="30" height="30" alt="Dapper ORM"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/4096/4096216.png" width="30" height="30" alt="SignalR"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" width="30" height="30" alt="SQL Server"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" width="30" height="30" alt="HTML"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" width="30" height="30" alt="CSS"/>
@@ -51,10 +53,9 @@ I enjoy clean architecture, scalable backend solutions, and always learning some
 
 Here are some of the projects I’ve worked on recently:
 
-- 🔗 [E-Commerce Project with ASP.NET Core MVC & Dapper](https://github.com/sedatbaskar/ecommerce-app)  
-- 🔗 [Blog Platform using ASP.NET Core, EF Core, and Identity](https://github.com/sedatbaskar/blog-app)  
-- 🔗 [API Project with .NET 7 & Minimal APIs](https://github.com/sedatbaskar/api-minimal-dotnet7)  
-*(Feel free to explore the repositories and give feedback!)*
+- 🔗 [MultiShop - Multi-Layered E-commerce Project (ASP.NET Core, Microservices)](https://github.com/sedatbaskar/MultiShop)  
+- 🔗 [MvcBlogProje - Blogging Platform with Identity & EF Core](https://github.com/sedatbaskar/MvcBlogProje)  
+- 🔗 [SignalR Project - Real-Time Communication with SignalR](https://github.com/sedatbaskar/SignalRroject)  
 
 ---
 
