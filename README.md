@@ -33,8 +33,8 @@ Currently, I'm focusing on improving my skills and building projects using **MVC
 ---
 
 ### 📫 How to Reach Me
-- 📧 sedatbaskar@example.com *(replace with your actual email)*
-- 💼 [LinkedIn](https://www.linkedin.com/in/sedatbaskar/) *(if available)*
+- 📧 sedatbaskar@gmail.com *(replace with your actual email)*
+- 💼 [LinkedIn]([https://www.linkedin.com/in/sedatbaskar/](http://linkedin.com/in/sedat-ba%C5%9Fkar-750462142/)) *(if available)*
 
 ---
 
