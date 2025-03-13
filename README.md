@@ -1,9 +1,19 @@
 ## 👋 Hi there, I'm Sedat!
 
 ### 🚀 About Me
-I'm a graduate of Sivas Cumhuriyet University, majoring in Management Information Systems.  
-I have experience working as an E-commerce and Digital Marketing Specialist in various companies.  
-Currently, I'm focusing on improving my skills and building projects using **MVC .NET** and **.NET Core**.
+I'm a passionate and curious developer who graduated from **Sivas Cumhuriyet University**, majoring in **Management Information Systems**.  
+I have professional experience in **E-commerce** and **Digital Marketing**, but my true focus is **software development**.
+
+Currently, I'm actively building real-world projects and improving my skills using the following technologies:
+
+- **ASP.NET Core MVC**
+- **Entity Framework Core**
+- **Dapper**
+- **MS SQL Server**
+- **RESTful APIs**
+- And following up with modern .NET technologies.
+
+I enjoy clean architecture, scalable backend solutions, and always learning something new in the .NET ecosystem.
 
 ---
 
@@ -19,23 +29,40 @@ Currently, I'm focusing on improving my skills and building projects using **MVC
 
 ---
 
-### 🛠️ Technologies I Work With
-<div style="display: flex; gap: 10px;">
+### 🛠️ Tech Stack & Tools
+
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" width="30" height="30" alt="C#"/>
   <img src="https://cdn-icons-png.flaticon.com/512/3161/3161133.png" width="30" height="30" alt=".NET Core"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/dotnet/dotnet.png" width="30" height="30" alt="ASP.NET Core"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/3314/3314937.png" width="30" height="30" alt="Entity Framework Core"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="30" height="30" alt="Dapper ORM"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" width="30" height="30" alt="SQL Server"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" width="30" height="30" alt="HTML"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" width="30" height="30" alt="CSS"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png" width="30" height="30" alt="Bootstrap"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968472.png" width="30" height="30" alt="SQL"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" width="30" height="30" alt="Git"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="30" height="30" alt="Visual Studio"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="30" height="30" alt="Git"/>
 </div>
 
 ---
 
-### 📫 How to Reach Me
-- 📧 sedatbaskar@gmail.com *(replace with your actual email)*
-- 💼 [LinkedIn]([https://www.linkedin.com/in/sedatbaskar/](http://linkedin.com/in/sedat-ba%C5%9Fkar-750462142/)) *(if available)*
+### 📁 Projects I've Built
+
+Here are some of the projects I’ve worked on recently:
+
+- 🔗 [E-Commerce Project with ASP.NET Core MVC & Dapper](https://github.com/sedatbaskar/ecommerce-app)  
+- 🔗 [Blog Platform using ASP.NET Core, EF Core, and Identity](https://github.com/sedatbaskar/blog-app)  
+- 🔗 [API Project with .NET 7 & Minimal APIs](https://github.com/sedatbaskar/api-minimal-dotnet7)  
+*(Feel free to explore the repositories and give feedback!)*
 
 ---
 
-⭐️ Thanks for visiting my profile!
+### 📫 Let's Connect
+
+- 📧 **Email:** sedatbaskar@gmail.com  
+- 💼 **LinkedIn:** [linkedin.com/in/sedat-başkar-750462142](https://linkedin.com/in/sedat-ba%C5%9Fkar-750462142)
+
+---
+
+⭐️ *Thanks for visiting my profile. Always open to collaboration and learning together!*
